@@ -1,8 +1,6 @@
-# New Project
+# statistics app
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
-
-## Available Scripts
+> ✨ An app I made for simple statistics viewing.
 
 ### npm start
 
